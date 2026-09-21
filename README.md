@@ -12,9 +12,8 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/stars/username/telegram-register-bot?style=social" />
-  <img src="https://img.shields.io/github/forks/username/telegram-register-bot?style=social" />
-  <img src="https://img.shields.io/github/issues/username/telegram-register-bot?style=social" />
+  <img src="https://img.shields.io/github/stars/BalzzXx/Bot-TestDb-ViaTelegram?style=social" />
+  <img src="https://img.shields.io/github/forks/BalzzXx/Bot-TestDb-ViaTelegram?style=social" />
 </p>
 
 **Bot Telegram ringan dengan sistem registrasi user bertahap, tersimpan aman di MySQL.**
