@@ -98,8 +98,6 @@ Cocok untuk:
 
 ## 📁 Struktur Project
 
-<div align="center">
-
 telegram-register-bot/
 │
 ├── 📄 index.js # 🧠 Kode utama bot
@@ -108,8 +106,6 @@ telegram-register-bot/
 ├── 🗄️ database.sql # 📊 Skema tabel
 ├── 🚫 .gitignore # 🛡️ Exclude file sensitif
 └── 📖 README.md # 📚 Dokumentasi
-
-</div>
 
 ---
 
