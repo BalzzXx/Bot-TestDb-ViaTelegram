@@ -97,3 +97,21 @@ Cocok untuk:
 ---
 
 ## 📁 Struktur Project
+
+<div align="center">
+
+telegram-register-bot/
+│
+├── 📄 index.js # 🧠 Kode utama bot
+├── 📦 package.json # 📋 Dependency & script
+├── 🔐 .env.example # 🧪 Contoh konfigurasi
+├── 🗄️ database.sql # 📊 Skema tabel
+├── 🚫 .gitignore # 🛡️ Exclude file sensitif
+└── 📖 README.md # 📚 Dokumentasi
+
+</div>
+
+---
+
+## 🚀 Instalasi
+
