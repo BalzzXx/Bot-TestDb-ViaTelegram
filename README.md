@@ -98,11 +98,16 @@ Cocok untuk:
 
 ## ⚙️ About Me
 
-<div align="center"
+<table>
+<tr>
+<td width="50%">
+
 
 Newbie Developer
 Email : admin@balzzx.my.id
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
