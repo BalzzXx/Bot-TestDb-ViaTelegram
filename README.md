@@ -96,15 +96,4 @@ Cocok untuk:
 
 ---
 
-## 📁 Struktur Project
-
-telegram-register-bot/
-📄 index.js # 🧠 Kode utama bot
-📦 package.json # 📋 Dependency & script
-🔐 .env.example # 🧪 Contoh konfigurasi
-🗄️ database.sql # 📊 Skema tabel
-
----
-
-## 🚀 Instalasi
 
