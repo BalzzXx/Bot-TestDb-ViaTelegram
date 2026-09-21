@@ -96,4 +96,13 @@ Cocok untuk:
 
 ---
 
+## ⚙️ About Me
 
+<div align="center"
+
+Newbie Developer
+Email : admin@balzzx.my.id
+
+</div>
+
+---
