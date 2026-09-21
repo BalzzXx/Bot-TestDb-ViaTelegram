@@ -102,9 +102,8 @@ Cocok untuk:
 <tr>
 <td width="50%">
 
-
-Newbie Developer
-Email : admin@balzzx.my.id
+| `Newbie Developer` |
+| `Email : admin@balzzx.my.id` |
 
 </td>
 </tr>
